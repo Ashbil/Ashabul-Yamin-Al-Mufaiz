@@ -39,8 +39,7 @@
 
 - 📧 Email: [ashabilfaiz@gmail.com](mailto:ashabilfaiz@gmail.com)  
 - 📱 Phone/WhatsApp: [+62 812-8864-4314](https://wa.me/6281288644314)  
-- 💼 LinkedIn: [Ashabul Yamin Al Mufaiz](https://www.linkedin.com/in/ashabul-yamin-al-mufaiz-5914aa387/)  
-
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashabul-yamin-al-mufaiz-5914aa387/)
 
 ---
 
