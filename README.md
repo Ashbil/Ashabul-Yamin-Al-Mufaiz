@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ashabul Yamin Al Mufaiz 
 
-🎓 Mahasiswa Computer Science | 💻 Calon Software Engineer | 🚀 Open to Internship Opportunities  
+
 
 ---
 
@@ -33,12 +33,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAMEKAMU&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>  
 
----
 
 ## 📬 Contact Me  
 
@@ -49,4 +44,4 @@
 
 ---
 
-⭐️ From [USERNAMEKAMU](https://github.com/USERNAMEKAMU)
+
