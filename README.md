@@ -13,7 +13,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashabul-Yamin-Al-Mufaiz&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashbil&show_icons=true&theme=tokyonight)
 
 ---
 
