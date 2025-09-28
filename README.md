@@ -31,12 +31,12 @@
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" /></a>
-</p>  
+## 📬 Contact Me  
+
+- 📧 Email: [ashabilfaiz@gmail.com](mailto:ashabilfaiz@gmail.com)  
+- 📱 Phone/WhatsApp: [+62 812-8864-4314](https://wa.me/6281288644314)  
+- 💼 LinkedIn: [Ashabul Yamin Al Mufaiz](https://www.linkedin.com/in/ashabul-yamin-al-mufaiz-5914aa387/)  
+
 
 ---
 
