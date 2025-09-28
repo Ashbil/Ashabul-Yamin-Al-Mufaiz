@@ -13,9 +13,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashabul-Yamin-Al-Mufaiz&show_icons=true&theme=tokyonight)  
 
 ---
 
