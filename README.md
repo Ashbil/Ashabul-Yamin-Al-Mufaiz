@@ -1,14 +1,14 @@
-# Hi there 👋, I'm [Nama Kamu]  
+# Hi there 👋, I'm Ashabul Yamin Al Mufaiz 
 
 🎓 Mahasiswa Computer Science | 💻 Calon Software Engineer | 🚀 Open to Internship Opportunities  
 
 ---
 
 ## 🌟 About Me
-- 🔭 Sedang belajar **Web Development** dan **Competitive Programming**  
-- 🌱 Fokus pada **Python, C++, dan Java**  
-- 💡 Suka membangun project kecil untuk melatih problem solving  
-- 📫 Kontak: [email@example.com](mailto:email@example.com)  
+🚀 My aspiration is to become a Full Stack Developer. At the moment, I’m learning the fundamentals of Cloud Computing with Google Cloud Platform (GCP).
+💡 I enjoy gaining knowledge by creating simple projects and experimenting with new tools and programming languages. I believe that mistakes and constructive feedback are key to learning and growth.
+👨‍💻 I have hands-on experience with programming languages such as C, Python, and Java. I’ve also developed basic websites and mobile applications using HTML, CSS, JavaScript, and Android Studio.
+🌱 I’m always eager to practice, build new projects, and connect with others in the tech community.
 
 ---
 
