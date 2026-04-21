@@ -13,7 +13,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashbil&show_icons=true&theme=tokyonight)
+[![ashabulfaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashabulfaiz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
