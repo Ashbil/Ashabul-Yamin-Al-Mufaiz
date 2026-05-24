@@ -3,14 +3,17 @@
 ---
 
 ### 🌟 About Me
-🚀 I'm a **Computer Science Student at BINUS University** (5th Semester) with a passion for becoming a **Full Stack Developer**. 
+🚀 I am a **Computer Science Student at BINUS University** (5th Semester). My goal is to become a versatile **Full Stack Developer** with a strong foundation in **Cloud Computing**.
 
-☁️ Currently, I am deep-diving into **Cloud Engineering** and infrastructure management using **Docker** and **Google Cloud Platform (GCP)**.
+💡 I love experimenting with different technologies—from low-level logic to high-level web applications. I believe that every project, whether it's a simple script or a complex system, is a stepping stone to growth.
 
-💻 **Current Focus:**
-- 🛠️ Developing **LUMEN**, a language learning platform.
-- ⚡ Building fast web interfaces with **React.js** and **Vite**.
-- 📦 Exploring containerization and automated deployments.
+👨‍💻 **Technical Highlights:**
+*   **Web Development**: Currently building **LUMEN**, a language learning platform, and have successfully implemented the **Bookshelf API**.
+*   **Software Engineering**: Hands-on experience with **C, Python, and Java** for various academic and personal projects.
+*   **Frontend Focus**: Crafting responsive UIs using **React.js** and **Vite**.
+*   **Cloud & DevOps**: Exploring **Docker** and **Google Cloud Platform (GCP)** to streamline deployments.
+
+🌱 I’m always open to collaboration and learning from the tech community. Let's build something impactful!
 
 ---
 
@@ -21,6 +24,7 @@
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Mobile** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) |
 
 ---
 
