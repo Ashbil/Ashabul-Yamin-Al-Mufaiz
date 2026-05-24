@@ -5,13 +5,13 @@
 ### 🌟 About Me
 🚀 I am a **Computer Science Student at BINUS University** (5th Semester). My goal is to become a versatile **Full Stack Developer** with a strong foundation in **Cloud Computing**.
 
-💡 I love experimenting with different technologies—from low-level logic to high-level web applications. I believe that every project, whether it's a simple script or a complex system, is a stepping stone to growth.
+💡 I have a strong passion for software development, particularly in understanding how to build scalable applications and manage the infrastructure that supports them. I enjoy the process of turning complex problems into functional, efficient, and user-friendly digital solutions.
 
 👨‍💻 **Technical Highlights:**
-*   **Web Development**: Currently building **LUMEN**, a language learning platform, and have successfully implemented the **Bookshelf API**.
-*   **Software Engineering**: Hands-on experience with **C, Python, and Java** for various academic and personal projects.
-*   **Frontend Focus**: Crafting responsive UIs using **React.js** and **Vite**.
-*   **Cloud & DevOps**: Exploring **Docker** and **Google Cloud Platform (GCP)** to streamline deployments.
+* **Frontend Development**: Creating responsive and modern interfaces using **React.js** and **Vite**.
+* **Backend Development**: Building reliable server-side systems and efficient APIs with **Node.js**.
+* **Software Engineering**: Solid foundation in **C, Python, and Java**.
+* **Cloud Infrastructure**: Specializing in **Cloud Computing** with a focus on **Docker** and **Google Cloud Platform (GCP)**.
 
 🌱 I’m always open to collaboration and learning from the tech community. Let's build something impactful!
 
