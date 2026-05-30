@@ -29,13 +29,19 @@
 ---
 
 ### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashabulfaiz&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashabulfaiz&theme=tokyonight" width="804" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashabulfaiz&theme=tokyonight" width="400" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashabulfaiz&theme=tokyonight" width="400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashabulfaiz&theme=tokyonight" width="400" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashabulfaiz&theme=tokyonight&utcOffset=7" width="400" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=ashabulfaiz&theme=tokyonight" width="400" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashabulfaiz&theme=tokyonight" width="400" alt="Top Languages by Commit" />
 </p>
 
 ---
